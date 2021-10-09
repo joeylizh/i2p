@@ -1,4 +1,4 @@
-Title: 1.1. Getting Oriented
+...Title: 1.1. Getting Oriented
 Author: Jon Reades
 Theme: casa notes
 Palette: Purple
@@ -7,7 +7,7 @@ Size: Wide
 Layout: Title
 Background: ./img/CASA_Logo_no_text.png
 # Getting Oriented
-##Key information to get you started...
+## Key information to get you started...
 
 ^ This presentation contains key contact and delivery information about the module.
 
@@ -30,7 +30,7 @@ In case of relevant concerns address your email to both module leaders
 | Yuna Lee                         | PhD researcher in Urban Foresight, Innovation and Public Policy (CASA) |
 
 ---
-## How We Are Running Things... 
+## How We Are Running Things...
 
 - **PREPARATION**: READINGS, pre-recorded LECTURES, contributuons to a weekly 'Padlet'
 - **WORKSHOPS**: Reviewing questions and issues arising from the previous week's PRACTICAL session. Your input to the 'Padlet' will guide the first half of each week's 'workshop'. READINGS and weekly topic group-discussions. The second half will be 'live coding' in an **I do/We do** format.
