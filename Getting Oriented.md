@@ -1,4 +1,4 @@
-[Title: 1.1. Getting Oriented
+[Title]: 1.1. Getting Oriented
 Author: Jon Reades
 Theme: casa notes
 Palette: Purple
