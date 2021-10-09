@@ -112,9 +112,9 @@ Layout: Split
 ### A Bit of Perspective
 
 Students face the risks of the de-skilling of geography and planning at one end, and being subsumed by data science at the other…
-![](./img/Harris_Tweet.png)
+![ ](./img/Harris_Tweet.png)
 +++
-![](./img/CASA_Logo_no_text.png)
+![ ](./img/CASA_Logo_no_text.png)
 
 ---
 
