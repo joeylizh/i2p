@@ -133,7 +133,7 @@ Students face the risks of the de-skilling of geography and planning at one end,
 - A whole new way of seeing the world and interacting with it.
 - Lots of support along the way… *if you remember to ask for it!*
 
-See [](https://twitter.com/fossilosophy/status/1342871356254334977?s=21) on moving from academia to data science.
+See [ ](https://twitter.com/fossilosophy/status/1342871356254334977?s=21) on moving from academia to data science.
 
 ---
 
